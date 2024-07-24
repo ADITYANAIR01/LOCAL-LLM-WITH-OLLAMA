@@ -12,6 +12,8 @@
 
 # Download and install Ollama from the official website:
 # https://ollama.com/download
+# Ollama with Ubuntu using curl command
+        curl -fsSL https://ollama.com/install.sh | sh
 
 # Add a Model to Ollama
         ollama pull llama3.1
